@@ -6,28 +6,28 @@
 
 1. What is a repository?
 
-<!-- Write your answer under here -->
+<!-- Repostitory is the process of making your code live. So that the other developers can see your output and they can fork as well -->
 
 2. What is the Git command to make a copy of a repo to your laptop?
 
-<!-- Write your answer under here -->
+<!-- Git Clone command is letting you copy of your repo -->
 
 3. What is the Git command to send your code to Github?
 
-<!-- Write your answer under here -->
+<!-- Git Push Origin Main/master command -->
 
 4. What does the -m in a Git commit command mean or do?
 
-<!-- Write your answer here -->
+<!-- -m means message your file. Write down a message so that the reader can easily understand your work -->
 
 5. What is the Git command for making a commit?
 
-<!-- Write your answer here -->
+<!-- Git commit -m command -->
 
 6. What is the Git command to put your files in the staging area?
 
-<!-- Write your answer here -->
+<!-- Git remote add origin command -->
 
 7. What does origin stand for when pushing you code?
 
-<!-- Write your answer here -->
+<!-- Origin stands for the destination you are pushing your code -->
